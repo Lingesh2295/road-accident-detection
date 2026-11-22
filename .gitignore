@@ -31,3 +31,5 @@ dataset/
 
 # Logs and temporary files
 *.log
+# User-uploaded and test images
+static/uploads/
